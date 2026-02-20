@@ -1,1 +1,23 @@
+<<<<<<< HEAD
 /.metadata/
+=======
+# Spring Boot specific
+
+# Gradle files
+.gradle/
+build/ 
+
+# Maven files
+*/target/
+
+# IDE specific files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+>>>>>>> d1c063b0585fda921823884f59b6502faacb2250
