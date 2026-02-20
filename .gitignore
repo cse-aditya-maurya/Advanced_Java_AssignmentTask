@@ -1,0 +1,19 @@
+# Spring Boot specific
+
+# Gradle files
+.gradle/
+build/ 
+
+# Maven files
+*/target/
+
+# IDE specific files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
